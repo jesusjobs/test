@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="GB2312" standalone="yes" ?>
+
 <root desc="服务器列表" ver="1">
+
     <global>
         <data type="include" name="wtypes.h" desc="" />
         <data type="include" name="GlobalDefs.h" desc="公用函数" />
@@ -25,4 +27,5 @@
             <data type="string" name="m_DownloadUrl" value="" desc="下载游戏" />
         </group>
     </class>
+    
 </root>
